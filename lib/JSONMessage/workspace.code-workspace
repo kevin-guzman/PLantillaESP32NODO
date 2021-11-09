@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Escritorio/Dev/ilusia-landing"
+		},
+		{
+			"name": "ESP32test",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"files.associations": {
+			"thread": "cpp"
+		}
+	}
+}
